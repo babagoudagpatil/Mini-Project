@@ -1,0 +1,4 @@
+e-commerce
+research
+business analysis
+recommendation system
